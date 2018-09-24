@@ -1,5 +1,8 @@
 _repo: What-a-Girl-Can-Make-and-Do-New-Ideas-for-Work-and-Play_56588
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56588-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Beard, Adelia B. (Adelia Belle)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '8086'
     url: http://www.gutenberg.org/2009/agents/8086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56588#What-a-Girl-Can-Make-and-Do-New-Ideas-for-Work-and-Play
 gutenberg_issued: '2018-02-17'
 gutenberg_type: Text
 identifiers:
